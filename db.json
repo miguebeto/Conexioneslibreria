@@ -1,0 +1,76 @@
+{ "books": [
+        {
+            "id": 1,
+            "img": "https://i.ibb.co/0GxKJzV/book-1.png",
+            "title": "LIBERADO",
+            "author": "E.L.JAMES",
+            "description": "Es un placer invitarte a la boda de la década en la que Christian Grey tomará a Anastasia Steele por esposa. Pero, ¿está realmente hecho para el matrimonio?",
+            "price": 62000
+        },
+        {
+            "id": 2,
+            "img": "https://i.ibb.co/vLrdyWR/book-2.png",
+            "title": "AMAR ES GANARLO TODO",
+            "author": "ALBERTO LINERO",
+            "description": "Alberto Linero abre su corazón para explicar por qué el amor es la mayor enseñanza cristiana que debemos acoger y aplicar a diario.",
+            "price": 48200
+        },
+        {
+            "id": 3,
+            "img": "https://i.ibb.co/2KGf7kF/book-4.png",
+            "title": "PADRE RICO PADRE POBRE ",
+            "author": "ROBERT T. KYYOSAKI",
+            "description": "Derriba el mito de que es necesario tener un ingreso elevado para hacerse rico, especialmente en un mundo donde la tecnología, los robots y la economía global están cambiando las reglas del juego.",
+            "price": 45000
+        },
+        {
+            "id": 4,
+            "img": "https://i.ibb.co/qymxPdh/book-3.png",
+            "title": "INQUEBRANTABLES",
+            "author": "DANIEL HABIF",
+            "description": "Este libro no acepta resúmenes, no pretende elevar una pila de ejemplares devorados, no contiene claves ocultas. En sus páginas no hallarás un manual de procedimientos ni un texto académico. ",
+            "price": 72000
+        },
+        {
+            "id": 5,
+            "img": "https://i.ibb.co/1Jr481F/book-5.png",
+            "title": "SALÓN 8 ",
+            "author": "YOKOI KENJI",
+            "description": "El lector encontrará en este libro más preguntas que lecciones, algunas evidentes, otras entrelíneas, expresadas en prosas breves o con la alegría de un verso o una rima, pero siempre con el propósito de encontrar equilibrio y humanidad entre dos culturas tan exóticas.",
+            "price": 34200
+        },
+        {
+            "id": 6,
+            "img": "https://i.ibb.co/ckYzdZt/book-6.png",
+            "title": "PIENSE Y HÁGASE RICO",
+            "author": "NAPOLEON HILL",
+            "description": "En cada capítulo de este libro, que ha hecho fortunas para centenares de hombres extraordinariamente ricos a quienes he analizado de manera exhaustiva durante muchísimos años, se habla del secreto de cómo hacer dinero.",
+            "price": 34900
+        },
+        {
+            "id": 7,
+            "img": "https://i.ibb.co/P4wBr8s/book-7.png",
+            "title": "TÓMATE UN RESPIRO",
+            "author": "DR. MARIO ALONSO PUIG",
+            "description": "Bajo una sólida base científica, nos habla de posibilidades, de oportunidades y de propuestas, no de creencias o dogmas. «Hay que prestar atención para ver las cosas tal como son».",
+            "price": 36800
+        },
+        {
+            "id": 8,
+            "img": "https://i.ibb.co/mJLGNf0/book-8.png",
+            "title": "A TRAVÉS DE MI VENTANA",
+            "author": "ARIANA GODOY",
+            "description": "Raquel lleva toda la vida loca por Ares, su atractivo y misterioso vecino. Lo observa sin ser vista desde su ventana, y es que, muy a su pesar, no han intercambiado ni una triste palabra. Lo que Raquel no sabe es que eso está a punto de cambiar...",
+            "price": 34000
+        },
+        {
+            "id": 9,
+            "img": "https://i.ibb.co/xDXL8b6/book-9.png",
+            "title": "PÍDEME LO QUE QUIERAS",
+            "author": "MEGAN MAXWELL",
+            "description": "Tras la muerte de su padre, el prestigioso empresario alemán Eric Zimmerman decide viajar a España para supervisar las delegaciones de la empresa Müller. En la oficina central de Madrid conoce a Judith, una joven ingeniosa y simpática de la que se encapricha de inmediato.",
+            "price": 34700
+        }
+    ]
+    
+}

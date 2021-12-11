@@ -1,0 +1,18 @@
+nav {
+    background-color: #364552;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+.span-nav {
+    font-size: medium;
+    font-weight: bolder;
+    display:inline-block;
+    transition: color 0.3s ease;
+    color: #fff;
+    text-decoration: none;
+}
+
+.span-nav:hover {
+    color: cornflowerblue;
+}
